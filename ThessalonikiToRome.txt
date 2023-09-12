@@ -1,0 +1,9 @@
+City: Thessaloniki, Greece
+Airport: Macedonia (SKG)
+
+Destination: Rome
+
+DIRECT FLIGHTS DETAILS:
+
+INDIRECT FLIGHTS through...[1]Munich, MUC
+
